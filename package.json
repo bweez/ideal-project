@@ -1,14 +1,17 @@
 {
-  "name": "ideal-project",
-  "version": "1.0.0",
-  "description": "Welcome to the **Ideal Project**, a comprehensive framework designed to streamline the process of creating and maintaining web applications. This setup captures every aspect from design, coding, testing, to deployment using modern tools and best practices.",
-  "main": "index.js",
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"
+    "nuxt": "^3.13.0",
+    "vue": "latest",
+    "vue-router": "latest"
   }
 }
