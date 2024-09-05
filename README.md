@@ -8,7 +8,6 @@ Welcome to the **Ideal Project**, a comprehensive framework designed to streamli
 - **AppMap for API Documentation and Testing**: AppMap captures the execution of your code to help you understand and document API and database interactions. It also helps with performance analysis and testing.
 - **OpenAPI Integration**: Automatically generate API documentation using OpenAPI specifications. This ensures your APIs are well-documented and easy to integrate.
 - **Docker for Deployment**: Deploy the application in a containerized environment to ensure consistency across different platforms.
-- **TypeScript and Deno**: The entire project is written in TypeScript, leveraging the modern runtime Deno for security and simplicity in development.
 
 ## Getting Started
 

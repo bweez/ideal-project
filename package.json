@@ -1,0 +1,14 @@
+{
+  "name": "ideal-project",
+  "version": "1.0.0",
+  "description": "Welcome to the **Ideal Project**, a comprehensive framework designed to streamline the process of creating and maintaining web applications. This setup captures every aspect from design, coding, testing, to deployment using modern tools and best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
